@@ -14,6 +14,6 @@ The main goal is to explore how curves are generated, connected, and controlled 
 
 ### 🖼️ Example Output  
 <p align="center">
-  <img src="Assets/Resources/Output Images/bezier-curve-hello.png" width="700">
+  <img src="Assets/Resources/bezier-curve-hello.png" width="700">
 </p>
 <p align="center"><i>“hello” drawn interactively using cubic Bézier segments</i></p>
