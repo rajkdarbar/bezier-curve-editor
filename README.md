@@ -17,3 +17,8 @@ The main goal is to explore how curves are generated, connected, and controlled 
   <img src="Assets/Resources/bezier-curve-hello.png" width="700">
 </p>
 <p align="center"><i>“hello” drawn interactively using cubic Bézier segments</i></p>
+
+---
+
+## 🎥 Demo Video  
+Check out [this video](https://youtu.be/CjCIfpKicyE) to see the interactive Bézier curve editor in action!
