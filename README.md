@@ -21,4 +21,4 @@ The main goal is to explore how curves are generated, connected, and controlled 
 ---
 
 ## 🎥 Demo Video  
-Check out [this video](https://youtu.be/CjCIfpKicyE) to see the interactive Bézier curve editor in action!
+Check out [this video](https://youtu.be/tHt4smt4QTU) to see the interactive Bézier curve editor in action!
