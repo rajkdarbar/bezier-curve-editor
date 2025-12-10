@@ -1,7 +1,6 @@
 ## 🌀 Interactive Bézier Curve Editor  
 
-This project is an **interactive cubic Bézier curve editor** built **from scratch in Unity** to understand the core mathematics behind Bézier curves.  
-The main goal is to explore how curves are generated, connected, and controlled using anchor and control points — by directly visualizing their geometric behavior.  
+This project is an **interactive cubic Bézier curve editor** built **from scratch in Unity** to understand the core mathematics behind Bézier curves. The main goal is to explore how curves are generated, connected, and controlled using anchor and control points — by directly visualizing their geometric behavior.  
 
 ---
 
